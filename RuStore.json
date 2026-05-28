@@ -1,0 +1,1537 @@
+{
+  "name": "RuStore (неофиц)",
+  "subtitle": "Каталог российских приложений",
+  "description": "Создан на базе каталога @appbankRU (жми на Patreon), большое его создателю спасибо\n\niwndrer.t.me",
+  "iconURL": "https://brands-prod.cdn-tinkoff.ru/general_logo/rustore.png",
+  "website": "https://t.me/iwndrer",
+  "patreonURL": "https://t.me/appbankru",
+  "tintColor": "#6156e2",
+  "featuredApps": [
+    "com.digit.budg",
+    "com.aholder.app",
+    "com.flavorvault.savor"
+  ],
+  "apps": [
+    {
+      "name": "AppBank",
+      "bundleIdentifier": "com.appbank.ru",
+      "marketplaceID": "",
+      "developerName": "AppBank",
+      "subtitle": "Клиент AppBank",
+      "localizedDescription": "Клиент AppBank для удобного доступа к каталогу банковских приложений.",
+      "iconURL": "https://appbank.pw/favicon/android-chrome-512x512.png",
+      "tintColor": "#101010",
+      "category": "lifestyle",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "2.4",
+          "date": "2026-05-05",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/mp.ipa",
+          "size": 18917162,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Сбербанк (Финансы Онлайн)",
+      "bundleIdentifier": "com.digit.budg",
+      "marketplaceID": "",
+      "developerName": "Ruslan Koledin",
+      "subtitle": "бывш. Сбербанк Онл@йн",
+      "localizedDescription": "Приложение Сбера с оплатой Вжухом",
+      "iconURL": "https://cdn.appbank.pw/fake/sber/17.0.0.jpeg",
+      "tintColor": "#21A038",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/38/45/b2/3845b231-b712-7ece-f450-e3c19221a3ac/1284_1_RU.jpeg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b5/02/58/b5025802-3bae-2ede-1db3-4852aefd4254/1284_2_RU.jpeg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/84/74/91/84749180-5472-e2b4-80b0-ce70ffa8924d/1284_4_RU.jpeg/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ars2nb/ipafiles/raw/refs/heads/main/sber/16.13.0.ipa",
+          "size": 264300000,
+          "version": "16.13.0",
+          "buildVersion": null,
+          "date": "2026-05-07T21:00:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
+          "version": "17.0.0",
+          "date": "2026-03-09",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/raw/refs/heads/main/sber/finance-online.ipa",
+          "size": 286142779,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Сбер Инвестиции (Состояние)",
+      "bundleIdentifier": "com.sber.investments.status",
+      "marketplaceID": "",
+      "developerName": "Roman Kravtsov",
+      "subtitle": "брокер от Сбербанк России",
+      "localizedDescription": "Приложение Сбер Инвестиции для отслеживания состояния портфеля и слива всего депозита в фьючерсах.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/b5/22/07/b5220702-35bf-a4a7-646c-1e65c8373d06/AppIcon_appstore-0-0-1x_U007ephone-0-1-85-220.png/0x1020h.png",
+      "tintColor": "#21A038",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c1/de/48/c1de4872-9e10-4571-4644-84a978e8591c/2.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/46/ff/8e46ffc5-7e80-5ea9-8529-35881ba8eeca/1.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1f/d8/86/1fd886b0-5c0b-ac07-4830-c92f57218bd3/3.png/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "3.34.0",
+          "date": "2026-05-10",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/sostoyanie.ipa",
+          "size": 115133647,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Альфа-Банк (Холдер)",
+      "bundleIdentifier": "com.aholder.app",
+      "marketplaceID": "",
+      "developerName": "Latif ARICAN",
+      "subtitle": "также Альфа-Онлайн",
+      "localizedDescription": "Приложение Альфы с оплатой Вжухом от 28/02/2026",
+      "iconURL": "https://i.imgur.com/9NSyCOA.png",
+      "tintColor": "ef3124",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9d/d8/c7/9dd8c7e2-06c1-f045-33de-750d643b248b/IMG_1.PNG/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/24/d1/ba/24d1ba96-1d07-be72-4e5f-2f59cdc4d409/IMG_3.PNG/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/21/80/77218047-5438-4bf0-60aa-a8a739a69aa5/IMG_2.PNG/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/c9/9b/53/c99b53e0-d9d7-71f8-d4ca-1843ded9bee5/IMG_4.PNG/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/alfafix/ainterior.ipa",
+          "size": 177900000,
+          "version": "14.10.0",
+          "buildVersion": null,
+          "date": "2026-03-09T16:22:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
+          "version": "15.02.0",
+          "date": "2026-05-27T00:00:00+03:00",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/kluch/kluch.ipa",
+          "size": 225800000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Bluetooth is used to unlock your safe.",
+          "NSCalendarsFullAccessUsageDescription": "Calendar access allows you to add your bookings as events for better scheduling.",
+          "NSCalendarsUsageDescription": "Calendar access allows you to add your bookings as events for better scheduling.",
+          "NSCameraUsageDescription": "The camera is used to capture photos that can be attached when sharing access to a storage cell.",
+          "NSContactsUsageDescription": "Contacts are used to select people to share access to your storage cell.",
+          "NSFaceIDUsageDescription": "Face ID enables quicker sign-in and secure access to sensitive actions.",
+          "NSLocationWhenInUseUsageDescription": "Your location is used to show your position on the map and display nearby operators.",
+          "NSMicrophoneUsageDescription": "The microphone is used to record voice notes related to your bookings.",
+          "NSPhotoLibraryUsageDescription": "Photo Library access allows you to select and attach photos when sharing cell access.",
+          "NSSpeechRecognitionUsageDescription": "Speech recognition is used to help you to store your notes both way text and voice.",
+          "NSUserTrackingUsageDescription": "Tracking permission allows us to measure campaign effectiveness and improve how we reach new users."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ToRefresh (Альфа Инвестиции)",
+      "bundleIdentifier": "com.alfa.investments.torefresh",
+      "marketplaceID": "",
+      "developerName": "Amelia Baranska",
+      "subtitle": "депай бляя",
+      "localizedDescription": "Приложение Альфа Инвестиции для управления инвестиционным портфелем.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/3c/05/d9/3c05d995-df1f-f562-996f-84ca2cfa5e5d/AppIcon-0-0-1x_U007epad-0-1-85-220.png/0x1020h.jpg",
+      "tintColor": "#EF3124",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/2b/f8/102bf8bb-2907-314a-54fc-ee11936b2b11/1242x2688-01.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/72/e3/19/72e31937-a4dc-c466-df51-96aa6d6a83c2/1242x2688-02.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/87/3b/bb/873bbbb1-1b6d-3555-e3ce-e5f4c1842779/1242x2688-03.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/03/90/9c/03909ce5-dd3b-54a0-e97c-31c262967a7f/1242x2688-03-1.jpg/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.3",
+          "date": "2026-05-10",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/torefresh.ipa",
+          "size": 163335847,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Т-Банк (Flavor InVault)",
+      "bundleIdentifier": "com.flavorvault.savor",
+      "marketplaceID": "",
+      "developerName": "Derren Roy de Jong",
+      "subtitle": "бывш. Тинькофф Кредитные Системы",
+      "localizedDescription": "Приложение Т-Банка БЕЗ оплаты Вжухом",
+      "iconURL": "https://cdn.appbank.pw/fake/tbank/flavor.png",
+      "tintColor": "#FFDD2D",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/10/bd/c8/10bdc825-07de-07e1-4b1d-6c52ba975c68/_U0410_U0439_U0444_U043e_U043d__U0421_U0435_U043a_U0446_U0438_U044f_1.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/be/d6/26/bed6269f-bed5-99ed-ed72-c311f0da78f5/_U0410_U0439_U0444_U043e_U043d__U0421_U0435_U043a_U0446_U0438_U044f_2.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/29/5d/8b/295d8b6d-7f6f-c7b5-026b-7d4052705c0a/_U0410_U0439_U0444_U043e_U043d__U0421_U0435_U043a_U0446_U0438_U044f_3.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/0d/cd/07/0dcd0742-17f1-382b-ad21-ce0b8cc6bf99/_U0410_U0439_U0444_U043e_U043d__U0421_U0435_U043a_U0446_U0438_U044f_4.jpg/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "7.13.0",
+          "date": "2026-03-09",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/raw/refs/heads/main/tbank/flavor.ipa",
+          "size": 197762898,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Цифровой сейф (Газпромбанк)",
+      "bundleIdentifier": "com.app.home.vault.prod",
+      "marketplaceID": "",
+      "developerName": "Matvey Kondrashov",
+      "subtitle": "влаадельцы ВК",
+      "localizedDescription": "Приложение Газпромбанка с оплатой Вжухом\n\nне обращайте внимания на разные версии, это одно и то же",
+      "iconURL": "https://cdn.appbank.pw/fake/icon_69dcb69e3e03b.webp",
+      "tintColor": "#0067B5",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f1/d6/33/f1d633ea-cfd1-656e-bd60-fa0e33c36735/573.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b0/e3/47/b0e347c9-5e78-ec11-8f03-680a9e913d8a/574.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5a/4b/ae/5a4bae60-f8b0-4e68-1c19-513c0bf5b40b/607.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/b6/98/a7/b698a7d8-6400-2e1c-925f-155bd9da9c00/605.png/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/giftmate/giftmate.ipa",
+          "size": 240800000,
+          "version": "1.0",
+          "buildVersion": "",
+          "date": "2025-12-23T21:00:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
+          "version": "1.1.3",
+          "date": "2025-12-24T21:00:00+03:00",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/digitalseif.ipa",
+          "size": 266400000,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ПСБ (Чайная церемония)",
+      "bundleIdentifier": "com.dvoe.teaceremony",
+      "marketplaceID": "",
+      "developerName": "Dmitry Yushchenko",
+      "subtitle": "не путать с пробизнесом",
+      "localizedDescription": "Приложение Промсвязьбанка от 26/04/2026",
+      "iconURL": "https://cdn.appbank.pw/fake/icon_69eaf3e5645f2.webp",
+      "tintColor": "#F26522",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/86/6b/49/866b49db-ab25-9a2c-58ab-5ebcd6acf5f5/5.png/0x1020h.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/34/f7/5e/34f75e86-42df-e40a-0547-929d32e20a96/2.png/0x1020h.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/31/d7/1a/31d71a19-8a72-b42f-b261-59835768faa5/4.png/0x1020h.png"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/ars2nb/ipafiles/raw/refs/heads/main/psb/coffee.ipa",
+          "size": 113700000,
+          "version": "1.4.1",
+          "buildVersion": "",
+          "date": "2025-11-13T18:00:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
+          "version": "1.6.0",
+          "date": "2026-04-26",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/teaceremony.ipa",
+          "size": 154102244,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "МТС Банк (Пять монет)",
+      "bundleIdentifier": "fivecoins.appstore",
+      "marketplaceID": "",
+      "developerName": "CHARLES ALEXANDER COLVILLE",
+      "subtitle": "ежа не нашел, сорри",
+      "localizedDescription": "Приложение МТС Банка для управления финансами.",
+      "iconURL": "https://cdn.appbank.pw/fake/mts/5coins.png",
+      "tintColor": "#E30613",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ef/d1/9e/efd19e48-253f-7c18-dd50-c7bed058c846/1290_U04452796_01.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/93/69/65/936965a8-1de9-a1d7-ec1f-43e9d857f8b4/1290_U04452796_02-2.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/50/ec/02/50ec0296-ffdb-644e-f691-0e369f465b3f/1290_U04452796_03.jpg/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "11.0.0",
+          "date": "2026-03-09",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/raw/refs/heads/main/mts/5coins.ipa",
+          "size": 159665610,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "СберKids (Smart Quiz)",
+      "bundleIdentifier": "com.superpulp.pulp",
+      "marketplaceID": "",
+      "developerName": "Gulzada Musabaeva",
+      "subtitle": "какой сберкидс, вы че угараете, в какую психушку",
+      "localizedDescription": "Детское приложение Сбера для управления карманными деньгами.",
+      "iconURL": "https://cdn.appbank.pw/fake/icon_69d4b28208728.webp",
+      "tintColor": "#21A038",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/9e/be/109ebefe-3859-1661-6f12-9db352cf4889/screen1.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7b/77/ae/7b77ae54-ab1a-d68c-190a-885f1c0a01a5/screen2.png/0x1024h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/58/56/9e/58569e9c-20ff-edb7-dd12-fffff682353d/screen3.png/0x1024h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "5.10.1",
+          "date": "2026-03-09",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/smartquiz.ipa",
+          "size": 98307183,
+          "buildVersion": null,
+          "minOSVersion": null
+        },
+        {
+          "version": "5.5.5",
+          "date": "2026-03-09",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/v1.0/pulp-5.5.5.ipa",
+          "size": 165951433,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "СберМобайл (Фокус)",
+      "bundleIdentifier": "ru.digitdetox.app",
+      "marketplaceID": "",
+      "developerName": "Zhanna Astafieva",
+      "subtitle": "хз не пользуюсь",
+      "localizedDescription": "Инструмент для поиска вышек сотовой связи Сбермобайл.",
+      "iconURL": "https://i.imgur.com/5G1XR8u.png",
+      "tintColor": "#fc4c4e",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/34/fc/35/34fc35a5-64e4-297e-023b-7eaf0a4ef1ad/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-07-11_at_15.20.48.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e3/59/63/e35963c3-a4ab-6661-38cd-2eda52dceac2/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-07-11_at_15.21.34.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/62/84/0c/62840c3a-cb7b-fd84-7800-1aa33a3f35c5/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-07-11_at_15.22.03.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/d8/06/0b/d8060bde-2dfe-b58f-971a-5c5a42a18ed0/Simulator_Screenshot_-_iPhone_16_Plus_-_2025-07-11_at_15.22.17.png/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D1%81%D0%B1%D0%B5%D1%80%D0%BC%D0%BE%D0%B1%D0%B0%D0%B9%D0%BB/v1.0.1.ipa",
+          "size": 83000000,
+          "version": "1.0.1",
+          "buildVersion": null,
+          "date": "2026-05-28T06:08:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
+          "downloadURL": "https://github.com/ars2nb/ipafiles/raw/refs/heads/main/sber/mobile/covermap.ipa",
+          "size": 56300000,
+          "version": "1.7",
+          "buildVersion": "",
+          "date": "2026-03-08T21:00:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
+          "version": "2.6",
+          "date": "2026-03-09",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/raw/refs/heads/main/sber/mobile/cellsmap.ipa",
+          "size": 58227176,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This app requires continuous access to Bluetooth to discover and connect to nearby devices and to function properly.",
+          "NSCameraUsageDescription": "The camera is used to create an avatar in the app. Photos are not transferred or stored outside the device.",
+          "NSFaceIDUsageDescription": "Biometric authentication is used to securely confirm your identity in the app.",
+          "NSFamilyControlsUsageDescription": "Digital Detox Timer blocks selected apps during focus sessions so you can concentrate without distractions.",
+          "NSHealthShareUsageDescription": "Digital Detox Timer reads health data to show focus session duration and activity in Apple Health.",
+          "NSHealthUpdateUsageDescription": "Digital Detox Timer saves focus session duration and activity to Apple Health.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Location is used to display results of nearby users.",
+          "NSLocationWhenInUseUsageDescription": "Location is used to display results of nearby users.",
+          "NSPhotoLibraryAddUsageDescription": "Access is needed to save focus session result images to your photo library.",
+          "NSPhotoLibraryUsageDescription": "Access is needed to save focus session results to the device's media library."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ДомКлик (Дом семьи)",
+      "bundleIdentifier": "com.cxplaceshouse",
+      "marketplaceID": "",
+      "developerName": "Elman Kolmakov",
+      "subtitle": "что-то типа авито, но от сбера со сбером",
+      "localizedDescription": "Все операции с недвижимостью и ипотека Сбера в одном месте.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f3/94/df/f394dfb3-2a54-0339-ab56-05fb8c16de86/Placeholder.mill/0x500h.png",
+      "tintColor": "#21A038",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8c/67/af/8c67af45-9e31-19e5-64ae-449f3ac9dfed/S-1.jpg/0x1020h.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8b/6c/8d/8b6c8d4e-ac48-16bb-aeca-7f82c59c76cc/S-2.jpg/0x1020h.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/fc/43/92/fc4392eb-66b7-4828-d286-77d7bfaccbd7/S-3.jpg/0x1020h.png"
+      ],
+      "versions": [
+        {
+          "version": "1.0",
+          "date": "2026-03-26",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/homefamily.ipa",
+          "size": 176107533,
+          "buildVersion": null,
+          "minOSVersion": null
+        },
+        {
+          "version": "1.2",
+          "date": "2026-03-09",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/domclickfix/domgid.ipa",
+          "size": 153191388,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Совкомбанк (EventsOrg)",
+      "bundleIdentifier": "ru.eventsOrganization",
+      "marketplaceID": "",
+      "developerName": "Mariia Ushakova",
+      "subtitle": "совок",
+      "localizedDescription": "Официальное приложение Совкомбанка для платежей и переводов.",
+      "iconURL": "https://i.imgur.com/xjCMy1j.png",
+      "tintColor": "#0534f9",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/10/e6/2f/10e62f9e-0afc-5219-0088-23cf1128b547/AppStore_1242x2688-11.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ce/bf/cd/cebfcd05-6b03-0b5b-6e22-660cd04864da/AppStore_1242x2688-1__U00281_U0029.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/13/a8/f9/13a8f920-9081-1dde-690c-8934599639ee/AppStore_1242x2688-1__U00283_U0029.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/91/c3/1f/91c31f03-2101-41fd-aa5d-a9c20cd58224/AppStore_1242x2688-1__U00284_U0029.png/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D1%81%D0%BE%D0%B2%D0%BA%D0%BE%D0%BC/v1.0.ipa",
+          "size": 41600000,
+          "version": "1.0.0",
+          "buildVersion": null,
+          "date": "2026-05-27T19:55:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
+          "version": "1.1.0",
+          "date": "2026-05-06",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/fingram.ipa",
+          "size": 44574443,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Разрешите доступ к камере, чтобы установить фото профиля.",
+          "NSContactsUsageDescription": "Разрешите доступ к контактам.",
+          "NSFaceIDUsageDescription": "Войдите в приложение быстро и безопасно с помощью Face ID.",
+          "NSLocationWhenInUseUsageDescription": "Разрешите доступ к местоположению для работы с геоданными.",
+          "NSMotionUsageDescription": "Используйте для быстрого доступа к функциям.",
+          "NSPhotoLibraryAddUsageDescription": "Разрешите сохранять фотографии в галерею.",
+          "NSPhotoLibraryUsageDescription": "Разрешите доступ к галерее для выбора и загрузки изображений."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Совком Инвест (OneTapJournal)",
+      "bundleIdentifier": "com.one.tap.journal.en.ios",
+      "marketplaceID": "",
+      "developerName": "LLC High Tracker",
+      "subtitle": "а в совком уже можно депать?",
+      "localizedDescription": "Приложение Совком Инвестиции для управления инвестициями.",
+      "iconURL": "https://i.imgur.com/X6wAain.png",
+      "tintColor": "#6c6cf4",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/0c/d1/52/0cd1521a-aeae-2cab-cfa6-fb1ff5012699/bad41f3b-2ada-4085-9893-36bf1872f895_ios_6-7_01.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/f9/9d/a8/f99da8bd-9d10-880e-8681-d70b04b7b320/c1722e54-99e0-45db-981a-8dbab661e573_ios_6-7_02.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/ab/d3/d2/abd3d201-f193-2e40-81df-2d2a1d982cb1/cde0395b-87e0-4f4c-8296-3b8b610048d2_ios_6-7_03.png/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D1%81%D0%BE%D0%B2%D0%BA%D0%BE%D0%BC-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82/OTJ.v1.5.0.ipa",
+          "size": 26500000,
+          "version": "1.5.0",
+          "buildVersion": null,
+          "date": "2026-05-28T06:05:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
+          "version": "1.3.0",
+          "date": "2026-05-10",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/hightracker.ipa",
+          "size": 117455944,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "To install photos in your profile",
+          "NSContactsUsageDescription": "To be able to provide your contacts with your history",
+          "NSFaceIDUsageDescription": "For convenient and quick login to the application",
+          "NSLocationWhenInUseUsageDescription": "To link to the location of the recording",
+          "NSMicrophoneUsageDescription": "For convenient and quick searching through notes",
+          "NSPhotoLibraryAddUsageDescription": "To save images to the gallery",
+          "NSPhotoLibraryUsageDescription": "To set a profile photo"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Дом.РФ Банк (Home Ключи)",
+      "bundleIdentifier": "homekey",
+      "marketplaceID": "",
+      "developerName": "RUTUBE",
+      "subtitle": "а почему разраб рутуб",
+      "localizedDescription": "Официальное приложение Дом.РФ Банка",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/6c/04/1f6c042c-fbdb-26c1-4b5a-4a4340e5d188/Placeholder.mill/0x500h.png",
+      "tintColor": "#4612a3",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/b6/68/e8/b668e8ac-adc2-0efc-8ac4-e3186d047aeb/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-16_at_16.02.35.png/0x1020h.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/90/9e/12/909e12ee-2b96-7683-1331-a5308b993ad4/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-16_at_16.04.21.png/0x1020h.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/06/96/36/06963633-0cad-1d3a-edf7-91756d313852/Simulator_Screenshot_-_iPhone_16_Pro_Max_-_2025-10-16_at_16.04.32.png/0x1020h.png"
+      ],
+      "versions": [
+        {
+          "version": "5.3.2.5",
+          "date": "2026-03-26",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/homekey.ipa",
+          "size": 85849517,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Рокетбанк (Аут)",
+      "bundleIdentifier": "com.timurvaleev.autapp",
+      "marketplaceID": "",
+      "developerName": "Yermek Aibulatov",
+      "subtitle": "исты",
+      "localizedDescription": "Приложение Рокетбанка для управления вашими финансами.",
+      "iconURL": "https://cdn.appbank.pw/fake/rocket/aut.jpg",
+      "tintColor": "#f3601c",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/2c/b9/832cb9e2-1684-4283-8845-f3ed77665c67/App_Store_iphone_11_1__U00281_U0029.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/23/0b/32/230b32b4-1ed3-f6cb-b615-be41f6cb3046/App_Store_iphone_11_2__U00281_U0029.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/93/2f/0b/932f0bf5-72ce-79bc-9efe-b6beec5b37bb/App_Store_iphone_11_4__U00281_U0029.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/55/dd/0d/55dd0dbd-9e58-ee4a-b41d-4991ca276a28/App_Store_iphone_11_3__U00281_U0029.jpg/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "2.0.2",
+          "date": "2026-03-09",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/raw/refs/heads/main/rocket/aut.ipa",
+          "size": 299434009,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "UraniaTime (YooMoney)",
+      "bundleIdentifier": "e.k.UraniaTime",
+      "marketplaceID": "",
+      "developerName": "Hogır ISSI",
+      "subtitle": "бывш. Яндекс Кошелёк",
+      "localizedDescription": "Официальное приложение ЮMoney для платежей и переводов.",
+      "iconURL": "https://cdn.appbank.pw/fake/yoomoney/uraniatime.png",
+      "tintColor": "#9041FF",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/33/ee/0c/33ee0ccf-8eb6-6ae2-89d5-0f1416726cc6/5e1f34df-664a-479b-a388-38d42e2cc983_iPhone_15_Plus-MainScreen.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource112/v4/5f/1c/d7/5f1cd71c-85b3-c392-9d80-85cd7e984b00/da170d50-724c-4492-b683-06a042f1a390_iPhone_15_Plus-AppSettings.png/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.5.9",
+          "date": "2026-03-09",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/yootime/uraniatime.ipa",
+          "size": 72020602,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Okko",
+      "bundleIdentifier": "okko",
+      "marketplaceID": "",
+      "developerName": "Okko OOO",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "Официальное приложение Okko для просмотра кино и сериалов.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/00/80/bd/0080bda0-02e1-a7ea-bcb3-f67e991b9287/Placeholder.mill/0x300h.png",
+      "tintColor": "#4612a3",
+      "category": "Okko",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/2e/36/87/2e3687db-66d6-a2eb-c89e-b6669d652600/AS_-_1.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/6a/e3/84/6ae384ca-b428-ca08-4df4-c09083637bed/AS_-_2.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/80/0f/c7/800fc7ed-a807-4943-00d7-5e109e6e3ced/AS_-_3.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/83/ed/9e/83ed9e97-2452-8821-00c8-e141433382d0/AS_-_4.jpg/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "14.4.0",
+          "date": "2026-03-09",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/okko/okko.ipa",
+          "size": 279720640,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "RUTUBE: Смотри видео здесь",
+      "bundleIdentifier": "rutube",
+      "marketplaceID": "",
+      "developerName": "RUTUBE",
+      "subtitle": "хороший пиратский кинотеатр",
+      "localizedDescription": "Официальное приложение Rutube для просмотра видео.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/49/53/4d/49534df1-d686-6486-4bbf-1220692c3f02/AppIcon-0-0-1x_U007epad-0-0-85-220.png/0x300h.jpg",
+      "tintColor": "#4612a3",
+      "category": "social",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8e/12/b6/8e12b6ee-b816-b114-6bf5-a809e052f600/2fd134c8-423d-4ea4-a860-a26cf65e9f48_i_1242x2208_1.png/0x1020h.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/cb/d9/a3cbd99c-9abd-db25-dfc6-552239521992/b376ec08-e3d5-4c37-855e-6c3f337ee674_i_1242x2208_2.png/0x1020h.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/77/65/04/77650402-38ca-f894-d7eb-7828260a5405/ad78d904-8f17-4d60-b33f-92511476a5b3_i_1242x2208_3.png/0x1020h.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/fc/3b/cb/fc3bcb9c-f620-55a9-7b10-8968e0d04cb9/71cab723-398b-403d-a120-becf203ec9cb_i_1242x2208_4.png/0x1020h.png"
+      ],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D1%80%D1%83%D1%82%D1%83%D0%B1/Starship.Battle.v1.2.0.ipa",
+          "size": 83300000,
+          "version": "1.2.0",
+          "buildVersion": null,
+          "date": "2026-05-27T20:28:00+03:00",
+          "localizedDescription": "битва кораблей",
+          "minOSVersion": null
+        },
+        {
+          "version": "47.15.0",
+          "date": "2026-04-13",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/rutube.ipa",
+          "size": 18518492,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "G8AI (GIGA CHAT)",
+      "bundleIdentifier": "com.gigachat.g8ai",
+      "marketplaceID": "",
+      "developerName": "Tatyana Sharipova",
+      "subtitle": "нейро хуйня, но и фильтры тоже",
+      "localizedDescription": "Приложение GIGA CHAT с искусственным интеллектом.\n\n!! Поставьте регион не Россию в настройках телефона, чтобы можно было войти по Apple ID, а не по телефону",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c1/ed/79/c1ed79d8-6b03-da63-ede4-d01d8da6d7ff/AppIcon-0-0-1x_U007ephone-0-11-85-220.jpeg/0x1020h.png",
+      "tintColor": "#007AFF",
+      "category": "social",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/1f/7e/9c/1f7e9c07-743f-fe48-5337-07d033343e08/01.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/9e/c3/c2/9ec3c224-ce47-3b80-321c-850ace4a4f6a/02.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/dc/64/90/dc649068-7de8-13bc-5c82-3e2777f12ad2/03.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/9c/5d/54/9c5d548e-887e-a811-8346-2de8ccf0cfcf/04.png/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "1.3.1",
+          "date": "2026-05-10",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/g8ai.ipa",
+          "size": 55523339,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Лента",
+      "bundleIdentifier": "ru.lenta.app",
+      "marketplaceID": "",
+      "developerName": "Lenta LLC.",
+      "subtitle": "а нахуя ленту удалили",
+      "localizedDescription": "Приложение сети магазинов Лента.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/da/9c/a4/da9ca4ea-2e43-a1c0-d249-851b1a4b6305/Placeholder.mill/0x1020h.png",
+      "tintColor": "#FF6B00",
+      "category": "Лента",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/43/ce/e1/43cee1b6-6edd-cbe6-17fa-ed0e959a4307/1242x2688_1.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/c4/96/6a/c4966a66-0c0a-8fb9-44a1-e9f7dba414c2/1242x2688_2.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/49/16/39/4916399b-1f36-a770-d2e9-c87cb23c5c1c/1242x2688_4__U00281_U0029.jpg/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "6.81.0",
+          "date": "2026-05-10",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/lenta.ipa",
+          "size": 281026047,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Yota",
+      "bundleIdentifier": "ru.yota.app",
+      "marketplaceID": "",
+      "developerName": "OOO Scartel",
+      "subtitle": "а че тогда мегафон не удалили?",
+      "localizedDescription": "Приложение мобильного оператора Yota.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/d5/19/5c/d5195cf1-4b86-d941-1182-149649ceba43/Placeholder.mill/0x1020h.png",
+      "tintColor": "#00D4FF",
+      "category": "Yota",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/1c/4f/b2/1c4fb2e8-3434-051f-6a67-9dffe41b33a7/1.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/8d/99/19/8d9919a0-a1c3-f939-74d0-354590e33f2a/2.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/f8/81/e4/f881e47b-1b62-f8e7-c178-1b647ef8167d/3.jpg/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "13.90",
+          "date": "2026-05-10",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/yota.ipa",
+          "size": 43233113,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "СОГАЗ (Здоровье и страхование)",
+      "bundleIdentifier": "ru.sogaz.health",
+      "marketplaceID": "",
+      "developerName": "KAZROSGROUP, TOO",
+      "subtitle": "владелец ВК",
+      "localizedDescription": "Приложение СОГАЗ для управления здоровьем и страхованием.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/5b/a5/70/5ba570ea-e487-ea0f-9764-878808a9255f/Placeholder.mill/0x1020h.png",
+      "tintColor": "#00A651",
+      "category": "СОГАЗ",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/12/f1/f2/12f1f2b8-7ef8-c5e1-a28a-3b935261fe2d/6.5-inch_20.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/ea/e5/4aeae552-50a1-8e5e-863a-a81342628142/6.5-inch_21.png/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/4a/ea/e5/4aeae552-50a1-8e5e-863a-a81342628142/6.5-inch_21.png/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "3.1.3",
+          "date": "2026-05-10",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/sogaz.ipa",
+          "size": 30168918,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Зенит Банк (TimeToTravel)",
+      "bundleIdentifier": "com.zenittime.travel",
+      "marketplaceID": "",
+      "developerName": "Adam Buladze",
+      "subtitle": "для меня он ещё ЛКБ",
+      "localizedDescription": "Приложение Зенит Банка.",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/67/26/3b/67263b0f-bf45-8d18-7fca-9548716693ee/AppIcon-0-0-1x_U007ephone-0-1-85-220.jpeg/0x1020h.png",
+      "tintColor": "#0055A5",
+      "category": "lifestyle",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/5b/55/3d/5b553d6b-9233-5fd7-adb4-fa605fe720ae/store_1.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/eb/59/da/eb59da38-d3b3-65f1-20d9-cddadc00f8c7/store_2.jpg/0x1020h.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/56/95/3a/56953ae6-e890-389b-d616-e4901f9671bc/store_3.jpg/0x1020h.jpg"
+      ],
+      "versions": [
+        {
+          "version": "3.0.3",
+          "date": "2026-05-10",
+          "localizedDescription": "New release!",
+          "downloadURL": "https://github.com/ars2nb/ipafiles/releases/download/100526/timetotravel.ipa",
+          "size": 51484354,
+          "buildVersion": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Банк СПБ (Компаньон)",
+      "bundleIdentifier": "ru.companion",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "С 323-летием, СПБ!",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/cRBe2iS.png",
+      "tintColor": "#d22424",
+      "category": "lifestyle",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D0%B1%D0%B0%D0%BD%D0%BA-%D1%81%D0%BF%D0%B1/v1.0.0.ipa",
+          "size": 66300000,
+          "version": "1.0.0",
+          "buildVersion": null,
+          "date": "2026-05-27T20:23:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Мы собираем информацию о bluetooth в целях более безопасной работы с приложением",
+          "NSBluetoothPeripheralUsageDescription": "",
+          "NSCameraUsageDescription": "Сканирование QR-кодов для подтверждения доставки заказа.",
+          "NSContactsUsageDescription": "Контакты используются для быстрых платежей и переводов с использованием номера телефона",
+          "NSFaceIDUsageDescription": "Использование биометрии позволит быстро и безопасно входить в приложение",
+          "NSLocationWhenInUseUsageDescription": "Определяем ваше местоположение для удобной визуализации на карте всех проводимых мероприятий",
+          "NSMicrophoneUsageDescription": "Запись голосовых сообщений для клиентов",
+          "NSPhotoLibraryAddUsageDescription": "Сохранение фотографий заказа",
+          "NSPhotoLibraryUsageDescription": "Прикрепление фотографий заказа"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "S7 (Gate7)",
+      "bundleIdentifier": "ru.pyanzin.siberia",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "а они че сделали",
+      "localizedDescription": "приложение сибирский авиалиний",
+      "iconURL": "https://i.imgur.com/qsQnXDa.png",
+      "tintColor": "#bbda04",
+      "category": "entertainment",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D1%817/v1.2.3.ipa",
+          "size": 300800000,
+          "version": "1.2.3",
+          "buildVersion": null,
+          "date": "2026-05-27T20:12:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Приложение запрашивает разрешение на поиск устройств в Вашей локальной сети и подключение к ним.",
+          "NSCalendarsUsageDescription": "Allow the app to add events to the Calendar",
+          "NSCameraUsageDescription": "You can scan documents and add photos to your profile or chat with support",
+          "NSFaceIDUsageDescription": "The application requires FaceID to use your login and password.",
+          "NSLocalNetworkUsageDescription": "",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "We will find the nearest airport or ticket office and show you travel routes",
+          "NSLocationAlwaysUsageDescription": "We will find the nearest airport or ticket office and show you travel routes",
+          "NSLocationWhenInUseUsageDescription": "We will find the nearest airport or ticket office and show you travel routes",
+          "NSMainNibFile": "MainWindow",
+          "NSMicrophoneUsageDescription": "Please_Add_Microphone",
+          "NSPhotoLibraryAddUsageDescription": "Boarding passes, receipts, and other documents you need will be saved on your device",
+          "NSPhotoLibraryUsageDescription": "You can upload documents for scanning and add files to your profile or chat with support",
+          "NSRemindersUsageDescription": "",
+          "NSSpeechRecognitionUsageDescription": "Allow app to help you with voice commands",
+          "NSUserTrackingUsageDescription": "We use your data to show personalized content — both ads and entertainment. For example, your activity in the app helps us select relevant tickets and travel destinations for you"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ГПБ Инвест (AirsoftNavTeam)",
+      "bundleIdentifier": "org.airsoft.navigation",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "да",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/Is3lj8Y.png",
+      "tintColor": "#84642c",
+      "category": "lifestyle",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D0%B3%D0%BF%D0%B1-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82/AirsoftNavTeam.v1.153.16.ipa",
+          "size": 88600000,
+          "version": "1.153.16",
+          "buildVersion": null,
+          "date": "2026-05-27T20:10:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appmetrica.yandex",
+          "NSCameraUsageDescription": "Разрешите доступ, чтобы загружать и отправлять документы в приложении",
+          "NSFaceIDUsageDescription": "Авторизация",
+          "NSLocationAlwaysUsageDescription": "AirsoftNavTeam использует ваше местоположение для отображения вашей текущей позиции на карте в реальном времени. Например, во время игры вы всегда видите, где находитесь, что помогает ориентироваться на местности и координироваться с командой.",
+          "NSLocationWhenInUseUsageDescription": "AirsoftNavTeam использует ваше местоположение для отображения вашей текущей позиции на карте в реальном времени. Например, во время игры вы всегда видите, где находитесь, что помогает ориентироваться на местности и координироваться с командой.",
+          "NSMicrophoneUsageDescription": "Предоставьте доступ к микрофону для записи голосовых сообщений",
+          "NSPhotoLibraryAddUsageDescription": "Разрешите доступ, чтобы скачивать изображения в приложении",
+          "NSPhotoLibraryUsageDescription": "Разрешите доступ, чтобы загружать и отправлять документы в приложении",
+          "NSUserTrackingUsageDescription": "Собираем данные для маркетинговых исследований и персонализации контента и рекомендаций в приложении"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "МКБ Банк (МКВО)",
+      "bundleIdentifier": "com.mohamed.pdfscannerconverter.app",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "там название iOS4 было, мда",
+      "localizedDescription": "шо такое мкб",
+      "iconURL": "https://i.imgur.com/I5fwhnX.png",
+      "tintColor": "#e4333c",
+      "category": "lifestyle",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D0%BC%D0%BA%D0%B1/MKBO.v1.0.0.ipa",
+          "size": 204200000,
+          "version": "1.0.0",
+          "buildVersion": null,
+          "date": "2026-05-27T19:59:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Для сканирования номеров карт, загрузки фотографий",
+          "NSContactsUsageDescription": "Для получения контактов из записной книжки",
+          "NSFaceIDUsageDescription": "Для входа в приложение по Face ID",
+          "NSLocationWhenInUseUsageDescription": "Для определения ближайших к вашему текущему местоположению банкоматов, терминалов и отделений банка",
+          "NSPhotoLibraryUsageDescription": "Для сканирования номеров карт, загрузки фотографий"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Cалют!",
+      "bundleIdentifier": "com.AM.PetCare",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "от сбера",
+      "localizedDescription": "Помощник Салют от Сбера. Вроде тут ещё управление устройствами есть.",
+      "iconURL": "https://i.imgur.com/4ksDkW5.png",
+      "tintColor": "#7f7f7f",
+      "category": "lifestyle",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/apps/C.v25.10.1.ipa",
+          "size": 103000000,
+          "version": "25.10.1",
+          "buildVersion": null,
+          "date": "2026-05-27T19:49:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "NSBluetoothAlwaysUsageDescription_LOCALIZED",
+          "NSBluetoothPeripheralUsageDescription": "NSBluetoothPeripheralUsageDescription_LOCALIZED",
+          "NSCameraUsageDescription": "NSCameraUsageDescription_LOCALIZED",
+          "NSContactsUsageDescription": "NSContactsUsageDescription_LOCALIZED",
+          "NSLocalNetworkUsageDescription": "NSLocalNetworkUsageDescription_LOCALIZED",
+          "NSLocationWhenInUseUsageDescription": "NSLocationWhenInUseUsageDescription_LOCALIZED",
+          "NSMicrophoneUsageDescription": "NSMicrophoneUsageDescription_LOCALIZED",
+          "NSSpeechRecognitionUsageDescription": "NSSpeechRecognitionUsageDescription_LOCALIZED",
+          "NSUserTrackingUsageDescription": "NSUserTrackingUsageDescription_LOCALIZED"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "РСХБ (Бычок Каберне)",
+      "bundleIdentifier": "ru.bychokcabernet.winescanner",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/ix30mxL.png",
+      "tintColor": "#8d4999",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D1%80%D1%81%D1%85%D0%B1/v1.1.ipa",
+          "size": 130500000,
+          "version": "1.4",
+          "buildVersion": null,
+          "date": "2026-05-27T20:04:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Камера нужна для сканирования штрихкода и винной этикетки.",
+          "NSContactsUsageDescription": "Контакты нужны, чтобы удобнее поделиться карточкой вина.",
+          "NSFaceIDUsageDescription": "Face ID нужен для защиты входа в приложение.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Геолокация нужна, чтобы показать ваше положение на карте происхождения вин.",
+          "NSLocationAlwaysUsageDescription": "Геолокация нужна, чтобы показать ваше положение на карте происхождения вин.",
+          "NSLocationWhenInUseUsageDescription": "Геолокация нужна, чтобы показать ваше положение на карте происхождения вин.",
+          "NSMainNibFile~ipad": "",
+          "NSPhotoLibraryAddUsageDescription": "This app requires photo library access to function properly.",
+          "NSPhotoLibraryUsageDescription": "Галерея нужна для выбора фото винной этикетки.",
+          "NSUserNotificationsUsageDescription": "Уведомления нужны для напоминаний об открытой бутылке."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Альфа-Бизнес (-Треки)",
+      "bundleIdentifier": "com.easyinvoicescanner.app",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/HAq6xfJ.png",
+      "tintColor": "#7d7d81",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D0%B0%D0%BB%D1%8C%D1%84%D0%B0-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/-.v1.1.0.ipa",
+          "size": 181100000,
+          "version": "1.1.0",
+          "buildVersion": null,
+          "date": "2026-05-28T06:33:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Takes photo of invoice",
+          "NSContactsUsageDescription": "To find responsible for document from contacts",
+          "NSFaceIDUsageDescription": "Use for security access to invoices",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Use for pick documents location",
+          "NSLocationAlwaysUsageDescription": "Use for pick documents location",
+          "NSLocationWhenInUseUsageDescription": "Use for pick documents location",
+          "NSMotionUsageDescription": "Use for better invoice photo taking",
+          "NSPhotoLibraryAddUsageDescription": "Add invoice photo to library",
+          "NSPhotoLibraryUsageDescription": "Pick invoice photo from library",
+          "NSUserTrackingUsageDescription": "We use this identifier to improve the app by understanding usage"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Банк Русс Стандарт (Ритм Онлайн)",
+      "bundleIdentifier": "ge.kk.bestreminders",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "что",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/6VZdYLw.png",
+      "tintColor": "#f7546d",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D1%82%D0%B0%D0%BD%D0%B4%D0%B0%D1%80%D1%82/v1.0.1.ipa",
+          "size": 83100000,
+          "version": "1.0.1",
+          "buildVersion": null,
+          "date": "2026-05-28T06:26:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "To sync with calendar events",
+          "NSCameraUsageDescription": "To capture photos for photo reminders",
+          "NSContactsUsageDescription": "To create birthday reminders from your contacts",
+          "NSFaceIDUsageDescription": "To login into app",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "To notify you when you arrive at or leave a location",
+          "NSLocationWhenInUseUsageDescription": "To set location-based reminders",
+          "NSMicrophoneUsageDescription": "To record voice reminders",
+          "NSPhotoLibraryUsageDescription": "To add photos to reminders",
+          "NSSpeechRecognitionUsageDescription": "To transcribe voice reminders into text"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Рокетбанк (Лукич)",
+      "bundleIdentifier": "com.garden.application",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "Для активации надо авторизироваться в настройках",
+      "localizedDescription": "Для активации надо авторизироваться в настройках",
+      "iconURL": "https://i.imgur.com/K2VlWRw.png",
+      "tintColor": "#1449ea",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D1%80%D0%BE%D0%BA%D0%B5%D1%82/v1.2.0.ipa",
+          "size": 30200000,
+          "version": "1.2.0",
+          "buildVersion": null,
+          "date": "2026-05-28T06:15:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "Календарь нужен только когда вы хотите экспортировать задачу участка в системный календарь iPhone.",
+          "NSCameraUsageDescription": "Камера нужна, чтобы сфотографировать растение или проблемный участок для предварительной диагностики",
+          "NSContactsUsageDescription": "Доступ к контактам нужен только когда вы выбираете человека, у которого можно спросить совет по растению или заметке.",
+          "NSFaceIDUsageDescription": "Face ID нужен только для открытия скрытых заметок, которые вы сами защитили в приложении.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Геопозиция нужна, чтобы сохранить точку растения или заметки на участке и потом быстро найти это место.",
+          "NSLocationWhenInUseUsageDescription": "Геопозиция нужна, чтобы сохранить точку растения или заметки на участке и потом быстро найти это место.",
+          "NSMicrophoneUsageDescription": "Микрофон нужен только для записи голосовых заметок о растениях, работах на участке и проблемах по уходу.",
+          "NSMotionUsageDescription": "Для удобного использования приложения.",
+          "NSPhotoLibraryUsageDescription": "Доступ к фото нужен, чтобы выбрать уже сделанное фото растения для диагностики и заметок."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ПСБ Бизнес (Помощник) №2",
+      "bundleIdentifier": "ru.darmoros.HealthMate",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "почему №2?",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/MIl84L5.png",
+      "tintColor": "#a839f7",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D0%BF%D1%81%D0%B1-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81/2.v1.4.ipa",
+          "size": 94500000,
+          "version": "1.4",
+          "buildVersion": null,
+          "date": "2026-05-28T06:13:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Разрешите доступ к камере, чтобы быстро и без ошибок работать с документами по QR коду",
+          "NSContactsUsageDescription": "Разрешите доступ к вашим контактам, чтобы приложение автоматически вводило их при работе с документами",
+          "NSFaceIDUsageDescription": "Разрешите доступ к FaceID для быстрого и безопасного входа в приложение",
+          "NSLocationWhenInUseUsageDescription": "Разрешите доступ к геолокации для определения ближайшего к вам офиса обслуживания",
+          "NSPhotoLibraryUsageDescription": "Разрешите доступ к фото для загрузки фотографий QR-кодов и документов в приложение",
+          "NSUserTrackingUsageDescription": "Чтобы постоянно совершенствовать наше приложение и иметь возможность предлагать вам персональные предложения и рекомендации просим дать согласие на отслеживание ваших предпочтений"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Сбер Еапте(ч)ка",
+      "bundleIdentifier": "com.eaptechka.ios",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "Перед употреблением проконсультируйтесь с врачом.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/wbqIRab.png",
+      "tintColor": "#323ac4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D0%B5%D0%B0%D0%BF%D1%82%D0%B5%D0%BA%D0%B0/v26.5.1.ipa",
+          "size": 77400000,
+          "version": "26.5.1",
+          "buildVersion": null,
+          "date": "2026-05-28T06:12:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationWhenInUseUsageDescription": "Для определения города",
+          "NSUserTrackingUsageDescription": "Ваши данные будут использованы для создания персональных подборок и рекомендаций"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Купер",
+      "bundleIdentifier": "ru.insttek.kuperapp",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "бывш. Сбермаркет",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/iVNNhz7.png",
+      "tintColor": "#2fcf74",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D0%BA%D1%83%D0%BF%D0%B5%D1%80/v17.0.ipa",
+          "size": 81100000,
+          "version": "17.0",
+          "buildVersion": "515",
+          "date": "2026-05-27T20:39:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Приложению требуется доступ к Bluetooth для обмена данными",
+          "NSCameraUsageDescription": "Разрешите Купер доступ к камере, чтобы делать фотографии",
+          "NSContactsUsageDescription": "Разрешите Купер доступ к своим контактам, чтобы мы улучшили качество распознавания речи в некоторых сценариях",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Разрешите Купер доступ к своей геопозиции, чтобы мы точнее определили какие магазины Вам доступны",
+          "NSLocationAlwaysUsageDescription": "Разрешите Купер доступ к своей геопозиции, чтобы мы точнее определили какие магазины Вам доступны",
+          "NSLocationWhenInUseUsageDescription": "Разрешите Купер доступ к своей геопозиции, чтобы мы точнее определили какие магазины Вам доступны",
+          "NSMicrophoneUsageDescription": "Разрешите Купер доступ к своему микрофону, чтобы мы могли распознавать Ваш голос",
+          "NSPhotoLibraryAddUsageDescription": "Разрешите Купер доступ к библиотеке, чтобы сохранять фотографии и ими делиться",
+          "NSPhotoLibraryUsageDescription": "Разрешите Купер доступ к библиотеке, чтобы сохранять фотографии и ими делиться",
+          "NSSpeechRecognitionUsageDescription": "Разрешите Купер доступ к своему микрофону, чтобы мы могли распознавать Ваш голос",
+          "NSUserTrackingUsageDescription": "Так мы сможем показывать скидки и товары, которые вам пригодятся."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Бланк Банк (Монт Бланк)",
+      "bundleIdentifier": "ru.montblanc.mobile",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/vKMdcGE.png",
+      "tintColor": "#ac54dc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D0%B1%D0%BB%D0%B0%D0%BD%D0%BA-%D0%B1%D0%B0%D0%BD%D0%BA/v1.139.1.ipa",
+          "size": 67400000,
+          "version": "1.139.1",
+          "buildVersion": null,
+          "date": "2026-05-27T20:37:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSCalendarsUsageDescription": "Для добавления встречи в календарь",
+          "NSCameraUsageDescription": "Для получения возможности загрузки фотографий в чат поддержки",
+          "NSContactsUsageDescription": "Для быстрого добавления пользователей",
+          "NSFaceIDUsageDescription": "Для быстрого входа в приложение",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Для взаимодейсвия с картой необходима ваша локация, дайте доступ к местоположению",
+          "NSLocationWhenInUseUsageDescription": "Для поиска рядом с текущим местоположением",
+          "NSPhotoLibraryUsageDescription": "Для получения возможности загрузки фотографий в чат поддержки",
+          "NSUserTrackingUsageDescription": "Эти данные будут использоваться, чтобы показывать вам персонализированную рекламу"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Авито (Au.ru)",
+      "bundleIdentifier": "org.reactjs.native.prod.AuReactNativeApp",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/AiPGNDA.png",
+      "tintColor": "#04ccfc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D0%B0%D0%B2%D0%B8%D1%82%D0%BE/Au.ru.v224.0.ipa",
+          "size": 385800000,
+          "version": "224.0",
+          "buildVersion": null,
+          "date": "2026-05-27T20:35:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Это нужно, чтобы делать фото для объявлений и совершать видеозвонки.",
+          "NSContactsUsageDescription": "Покажем, кого из ваших знакомых  можно пригласить, чтобы получить бонусы.   Закрыть доступ можно в настройках  телефона",
+          "NSFaceIDUsageDescription": "Для удобного и безопасного подтверждения действий",
+          "NSLocationUsageDescription": "Данные о вашем местоположении могут быть использованы при подаче и поиске объявлений.",
+          "NSLocationWhenInUseUsageDescription": "Данные о вашем местоположении могут быть использованы при подаче и поиске объявлений.",
+          "NSMicrophoneUsageDescription": "Вы сможете звонить и принимать звонки через приложение.",
+          "NSMotionUsageDescription": "Приложению нужен доступ к шагомеру",
+          "NSPhotoLibraryAddUsageDescription": "Приложению нужен доступ к галерее, чтобы сохранять фотографии",
+          "NSPhotoLibraryUsageDescription": "Приложению нужен доступ к галерее, чтобы прикреплять фотографии к объявлению",
+          "NSUserTrackingUsageDescription": "Так реклама будет подобрана специально для вас"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Фора Банк (SmartET)",
+      "bundleIdentifier": "com.oksanaiv.SmartExpenseTracker",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "не путать с форусом",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/EutBKiZ.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/dozhdevik/rustore/releases/download/%D1%84%D0%BE%D1%80%D0%B0/SmartET.v3.@appbankRU.ipa",
+          "size": 83200000,
+          "version": "3",
+          "buildVersion": null,
+          "date": "2026-05-27T20:32:00+03:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Разрешите доступ к камере для использования всех возможностей приложения",
+          "NSContactsUsageDescription": "Разрешите доступ к контактам для удобной связи и взаимодействия",
+          "NSFaceIDUsageDescription": "Разрешите использовать Face ID для быстрого и безопасного входа",
+          "NSLocationWhenInUseUsageDescription": "Разрешите доступ к местоположению для персонализации и улучшения сервиса",
+          "NSMicrophoneUsageDescription": "Разрешите доступ к микрофону для общения и голосовых функций",
+          "NSPhotoLibraryUsageDescription": "Разрешите доступ к фото, чтобы загружать изображения и настраивать профиль"
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [
+    {
+      "title": "Добавлены новые приложения",
+      "identifier": "new-apps-added-4",
+      "caption": "Каталог пополнен: Альфа Инвестиции, Сбер Инвестиции, Совком Инвестиции, Зенит Банк, GIGA CHAT, Лента, Yota, СОГАЗ.",
+      "date": "2026-05-10T21:00",
+      "tintColor": "#21A038",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    },
+    {
+      "title": "Добавлены новые приложения",
+      "identifier": "new-apps-added-3",
+      "caption": "Каталог пополнен новыми версиями Газпромбанка, Промсвязьбанка, СберKids.",
+      "date": "2026-05-10T18:29",
+      "tintColor": "#b32821",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    },
+    {
+      "title": "Добавлены новые приложения",
+      "identifier": "new-apps-added-2",
+      "caption": "Каталог пополнен приложениями YooMoney, СберKids, Рокетбанка и другими сервисами.",
+      "date": "2026-03-09T19:45",
+      "tintColor": "#007AFF",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    },
+    {
+      "title": "Добро пожаловать в AppBank",
+      "identifier": "welcome-appbank",
+      "caption": "Крупнейший репозиторий банковских приложений запущен.",
+      "date": "2026-03-09T16:00",
+      "tintColor": "#21A038",
+      "imageURL": "",
+      "notify": true,
+      "url": "https://example.com/new_feature_details",
+      "appID": null
+    }
+  ]
+}
