@@ -57,15 +57,6 @@
       ],
       "versions": [
         {
-          "downloadURL": "https://github.com/ars2nb/ipafiles/raw/refs/heads/main/sber/16.13.0.ipa",
-          "size": 264300000,
-          "version": "16.13.0",
-          "buildVersion": null,
-          "date": "2026-05-07T21:00:00+03:00",
-          "localizedDescription": null,
-          "minOSVersion": null
-        },
-        {
           "version": "17.0.0",
           "date": "2026-03-09",
           "localizedDescription": "New release!",
